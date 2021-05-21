@@ -1,2 +1,2 @@
 # BinaryToShellcode
-Convert available made paylaod to hex shellcode format
+Pyhton code that convert available made paylaod to hex shellcode format
