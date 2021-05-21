@@ -5,7 +5,7 @@ currently available is {0x5a, 0x6f, 0x75, 0x6b, 0xe2, 0x6f .....}
 
 USAGE
 ```
-pyhton3 shellconvert payload.bin
+pyhton3 shellconvert.py payload.bin
 ```
 
 TODO
