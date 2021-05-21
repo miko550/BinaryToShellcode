@@ -3,6 +3,11 @@ Pyhton code that convert available made payload to hex shellcode format adn it b
 
 currently available is {0x5a, 0x6f, 0x75, 0x6b, 0xe2, 0x6f .....}
 
+USAGE
+```
+pyhton3 shellconvert payload.bin
+```
+
 TODO
 - make this format "\xe8\x00\x00\x00\x00\x58\x55\x89\xe"
 - save result on file
