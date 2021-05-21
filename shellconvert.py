@@ -17,5 +17,3 @@ for x in plaintext:
 
 print(', '.join(sc))
 print("Bytes length : %s" % len(sc))
-
-print("The hexadecimal form of 23 is "+ hex(0))
