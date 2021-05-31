@@ -14,4 +14,4 @@ TODO
 - add agrument to select format
 
 UPDATE
-- 31/05/2021 - just find out this call hex dump and you can use linux command `xxd` [I'm an inline-style link](https://www.tutorialspoint.com/unix_commands/xxd.htm)
+- 31/05/2021 - just find out this thing call a hex dump and you can use linux command `xxd` [link here](https://www.tutorialspoint.com/unix_commands/xxd.htm) to get the same result
